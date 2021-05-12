@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReminderKotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="save">save</string>
+    <string name="time">Time</string>
+    <string name="decryption">Decryption</string>
+    <string name="textview">TextView</string>
+    <string name="mySwitch">Switch</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="spinner_item">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+</resources>
